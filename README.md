@@ -1,2 +1,2 @@
-# GameOFLife
+# GameOfLife
 The Conway's famous game 
